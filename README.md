@@ -1,5 +1,5 @@
 # urbantower.org
-The source code of http://www.urbantower.org/
+The source code of http://www.urbantower.org/ and http://www.urbantower.io
 
 # LICENSE
 
